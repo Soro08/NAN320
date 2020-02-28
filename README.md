@@ -13,7 +13,7 @@ Spécialité Backend 2: `golang`, `javascript`, `csharp`
 
 ## Exercice 3.1
 
-['img'](https://raw.githubusercontent.com/Soro08/NAN320/master/img.png)
+![img](https://raw.githubusercontent.com/Soro08/NAN320/master/img.png)
 
 ## Exercice 3.2
 
