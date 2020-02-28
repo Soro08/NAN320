@@ -17,7 +17,7 @@ Spécialité Backend 2: `golang`, `javascript`, `csharp`
 
 ## Exercice 3.2
 
-    On pose p=0,9, et on admet que la fonction x↦px−1x est croissante sur [1,a] et décroissante sur [a,+∞[, où a>1. Écrire un algorithme permettant de déterminer pour quelle valeur de l'entier r le nombre pr−1r est maximal.
+ ![img](https://raw.githubusercontent.com/Soro08/NAN320/master/img2.png)
 
 ## Exercice 4
 
