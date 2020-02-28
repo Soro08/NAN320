@@ -13,21 +13,11 @@ Spécialité Backend 2: `golang`, `javascript`, `csharp`
 
 ## Exercice 3
 
-    Écrire un algorithme qui détermine la catégorie sportive d’un utilisateur en fonction de son âge :
-
-    6 à 7 ans : poussin
-
-    8 à 9 ans : pupille
-
-    10 à 11 ans : minime
-
-    12 ans et plus : cadet
-
-    Écrire le programme C# associé.
+On note Hn la somme Hn=∑nk=11k. On admet que (Hn) tend vers +∞. Écrire un algorithme qui détermine le plus petit entier n tel que Hn dépasse un réel a donné.
 
 ## Exercice 4
 
-    Écrire un algorithme qui permet de savoir quel est le jour de la semaine, en utilisant la méthode suivante, puis convertissez-le en C# :
+    Écrire un algorithme qui permet de savoir quel est le jour de la semaine, en utilisant la méthode suivante, puis convertissez-le dans votre langage de programmation :
 
     On garde les deux derniers chiffres de l’année.
 
