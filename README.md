@@ -13,7 +13,7 @@ Spécialité Backend 2: `golang`, `javascript`, `csharp`
 
 ## Exercice 3.1
 
-On note Hn la somme Hn=∑nk=11k. On admet que (Hn) tend vers +∞. Écrire un algorithme qui détermine le plus petit entier n tel que Hn dépasse un réel a donné.
+['img'](https://raw.githubusercontent.com/Soro08/NAN320/master/img.png)
 
 ## Exercice 3.2
 
