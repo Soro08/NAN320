@@ -21,54 +21,11 @@ Spécialité Backend 2: `golang`, `javascript`, `csharp`, `python`
 
 ## Exercice 4
 
-    Écrire un algorithme qui permet de savoir quel est le jour de la semaine, en utilisant la méthode suivante, puis convertissez-le dans votre langage de programmation :
+   Une compagnie d'assurance automobile propose à ses clients quatre familles de tarifs identifiables par une couleur, du moins au plus onéreux : tarifs bleu, vert, orange et rouge. Le tarif dépend de la situation du conducteur :
 
-    On garde les deux derniers chiffres de l’année.
-
-    On ajoute 1/4 de ce chiffre en ignorant les restes : division entière.
-
-    On ajoute la journée du mois.
-
-    Selon le mois, on ajoute la valeur indiquée :
-
-    Janvier = 1
-
-    Février = 4
-
-    Mars = 4
-
-    Avril = 0
-
-    Mai = 2
-
-    Juin = 5
-
-    Juillet = 0
-
-    Août = 3
-
-    Septembre = 6
-
-    Octobre = 1
-
-    Novembre = 4
-
-    Décembre = 6
-
-    Si l’année est bissextile et le mois est janvier ou février, on soustrait 1.
-
-    Selon le siècle, on ajoute la valeur indiquée :
-
-    Années 1600 = 6
-
-    Années 1700 = 4
-
-    Années 1800 = 2
-
-    Années 1900 = 0
-
-    Années 2000 = 6
-
-    Années 2100 = 4
-
-    On divise la somme par 7 et on garde le reste : ...
+   - un conducteur de moins de 25 ans et titulaire du permis depuis moins de deux ans, se voit attribuer le tarif rouge, si toutefois il n'a jamais été responsable d'accident. Sinon, la compagnie refuse de l'assurer.
+   - un conducteur de moins de 25 ans et titulaire du permis depuis plus de deux ans, ou de plus de 25 ans mais titulaire du permis depuis moins de deux ans a le droit au tarif orange s'il n'a jamais provoqué d'accident, au tarif rouge pour un accident, sinon il est refusé.
+   - un conducteur de plus de 25 ans titulaire du permis depuis plus de deux ans bénéficie du tarif vert s'il n'est à l'origine d'aucun accident et du tarif orange pour un accident, du tarif rouge pour deux accidents, et refusé au-delà
+   - De plus, pour encourager la fidélité des clients acceptés, la compagnie propose un contrat de la couleur immédiatement la plus avantageuse s'il est entré dans la maison depuis plus de cinq ans. Ainsi, s'il satisfait à cette exigence, un client normalement "vert" devient "bleu", un client normalement "orange" devient "vert", et le "rouge" devient orange.
+    
+   Ecrire l'algorithme permettant de saisir les données nécessaires (sans contrôle de saisie) et de traiter ce problème.
