@@ -11,9 +11,13 @@ Spécialité Backend 2: `golang`, `javascript`, `csharp`
 
     Écrire le même algorithme, mais en utilisant deux variables booléennes pour vérifier l’état de l’eau, sans comparaisons dans les SI.
 
-## Exercice 3
+## Exercice 3.1
 
 On note Hn la somme Hn=∑nk=11k. On admet que (Hn) tend vers +∞. Écrire un algorithme qui détermine le plus petit entier n tel que Hn dépasse un réel a donné.
+
+## Exercice 3.2
+
+    On pose p=0,9, et on admet que la fonction x↦px−1x est croissante sur [1,a] et décroissante sur [a,+∞[, où a>1. Écrire un algorithme permettant de déterminer pour quelle valeur de l'entier r le nombre pr−1r est maximal.
 
 ## Exercice 4
 
