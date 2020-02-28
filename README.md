@@ -1,6 +1,7 @@
 # NAN320
-Exercices NaN 3.20
 
+Exercices NaN 3.20 
+Spécialité Backend 2: `golang`, `javascript`, `csharp`
 
 ## Exercice 1
 
