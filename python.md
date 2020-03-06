@@ -18,4 +18,4 @@
   Utilisez cette fonction dans un programme principal qui saisit le nombre de victimes et qui affiche la somme que le chasseur doit débourser.
 
 
-http://pise.info/algo/enonces5.
+http://pise.info/algo/enonces5.htm
