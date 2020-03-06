@@ -16,3 +16,6 @@
   Écrire une fonction amende qui reçoit le nombre de victimes du chasseur et qui renvoie la somme due.
 
   Utilisez cette fonction dans un programme principal qui saisit le nombre de victimes et qui affiche la somme que le chasseur doit débourser.
+
+
+http://pise.info/algo/enonces5.
